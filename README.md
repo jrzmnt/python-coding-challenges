@@ -3,7 +3,11 @@
 This is my repository containing all the codes that I developed in the [py.CheckiO](https://py.checkio.org/) platform.
 Feel free to check it out how I solved it, but remember, it's very important that you try to program it yourself.
 
----
+
+## Codes
+
+- [Elementary](Elementary/)
+- [Home](Home/)
 
 
 ## About [py.CheckiO](https://py.checkio.org/):
