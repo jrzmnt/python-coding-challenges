@@ -4,13 +4,13 @@ This is my repository containing all the codes that I developed in the [py.Check
 Feel free to check it out how I solved it, but remember, it's very important that you try to program it yourself.
 
 
-## Codes
+### Codes
 
 - [Elementary](Elementary/)
 - [Home](Home/)
 
 
-## About [py.CheckiO](https://py.checkio.org/):
+### About [py.CheckiO](https://py.checkio.org/):
 
 Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and JavaScript.
 
