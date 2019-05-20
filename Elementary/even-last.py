@@ -17,12 +17,8 @@ def checkio(array):
     """
         sums even-indexes elements and multiply at the last
     """
-    if array == []: return 0
-    return sum(x for i,x in enumerate(array) if i%2==0) * array[-1]
-            
-            
-                
-    
+    return sum(x for i,x in enumerate(array) if i%2==0) * array[-1] if array else 0
+
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':
