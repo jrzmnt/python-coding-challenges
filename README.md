@@ -9,7 +9,7 @@ If you want to add me, this is the [link](https://py.checkio.org/user/jrzmnt/) f
 
 - [Elementary - ](Elementary/) Challenges: 21, Done: 21. <img src="https://cdn4.iconfinder.com/data/icons/basic-ui-filled-1/614/781_-_Tick-128.png" height="30" width="30">
 
-- [Home - ](Home/) Challenges: 13, Done: 3.
+- [Home - ](Home/) Challenges: 13, Done: 4.
 
 ### About [py.CheckiO](https://py.checkio.org/):
 
